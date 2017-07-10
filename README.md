@@ -12,11 +12,11 @@ Choo Boilerplate
 
 ## How do I launch the project ?
 
-####Using npm
+Using npm
 1. npm install
 2. npm run start
 
-####Using yarn
+Using yarn
 1. yarn
 2. yarn start
 
